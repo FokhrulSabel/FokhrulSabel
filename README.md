@@ -1,111 +1,60 @@
-<h1 align="center">Hi 👋, I'm Fokhrul Islam</h1>
+<h1 align="center">Hi 👋, I'm Fokhrul Islam Sabel</h1>
 <h3 align="center">MERN Stack Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=FokhrulSabel&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 MERN Stack Developer passionate about building modern web applications
-- 🌱 Currently learning **Advanced Next.js & Fullstack Development**
-- 🔭 Currently working on **Next.js Projects and Dashboards**
+🚀 Passionate **MERN Stack Developer** who enjoys building modern, scalable web applications.
+
+- 🔭 Currently working on **Next.js Fullstack Applications**
+- 🌱 Learning **Advanced Next.js, Authentication, and System Design**
 - 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
-- ⚡ I love building **clean UI and scalable apps**
+- 🎯 Goal: Become a **world-class Fullstack Developer**
+- ⚡ I enjoy creating **clean UI and well-structured code**
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/fokhrulsabel/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/FokhrulSabel" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="sabel.fokhrul003@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-
----
-
-# 📌 Featured Projects
-
-### 🛒 GadgetHub – Modern Tech Store
-Next.js eCommerce application with authentication and dashboard.
-
-Features:
-- NextAuth Authentication
-- Admin Dashboard
-- Product Management
-- Responsive UI
-
-🔗 Live Demo: https://yourdemo.com  
-🔗 Repo: https://github.com/YOUR_USERNAME/gadgethub
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
 
 ---
 
-### 🌱 Plant Store Website
-Responsive plant shop UI built with HTML, CSS, and JavaScript.
-
-Features:
-- Responsive layout
-- Modern UI
-- Product cards
-- Newsletter section
-
-🔗 Repo: https://github.com/YOUR_USERNAME/plant-store
-
----
-
-### 💼 React Portfolio Website
-Modern portfolio website built using React.
-
-Features:
-- Responsive design
-- Resume download
-- Projects showcase
-- Contact section
-
-🔗 Repo: https://github.com/YOUR_USERNAME/portfolio
-
----
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FokhrulSabel&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FokhrulSabel&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -114,15 +63,7 @@ Features:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark"/>
+<img src="https://streak-stats.demolab.com/?user=FokhrulSabel&theme=tokyonight" />
 </p>
 
 ---
@@ -130,14 +71,42 @@ Features:
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FokhrulSabel&theme=react-dark" />
 </p>
 
 ---
 
-# 💡 Dev Quote
+# 🐍 Contribution Snake
 
-> "First solve the problem. Then write the code." – John Johnson
+<p align="center">
+<img src="https://raw.githubusercontent.com/FokhrulSabel/FokhrulSabel/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/fokhrulsabel/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sabel.fokhrul003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/FokhrulSabel">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+> “First solve the problem. Then write the code.”
 
 ---
 
