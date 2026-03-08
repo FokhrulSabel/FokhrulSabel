@@ -1,51 +1,144 @@
+<h1 align="center">Hi 👋, I'm Fokhrul Islam</h1>
+<h3 align="center">MERN Stack Developer | React & Next.js Enthusiast</h3>
 
-# Hi 👋, I'm Fokhrul Islam  
-### 🔭 I build things with JavaScript, React, and Node.js
-
----
-
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+- 💻 MERN Stack Developer passionate about building modern web applications
+- 🌱 Currently learning **Advanced Next.js & Fullstack Development**
+- 🔭 Currently working on **Next.js Projects and Dashboards**
+- 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
+- ⚡ I love building **clean UI and scalable apps**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/fokhrulsabel/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/FokhrulSabel" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="sabel.fokhrul003@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### **Tools & Others**
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
 ---
 
-## 🌐 Connect With Me  
+# 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+### 🛒 GadgetHub – Modern Tech Store
+Next.js eCommerce application with authentication and dashboard.
+
+Features:
+- NextAuth Authentication
+- Admin Dashboard
+- Product Management
+- Responsive UI
+
+🔗 Live Demo: https://yourdemo.com  
+🔗 Repo: https://github.com/YOUR_USERNAME/gadgethub
 
 ---
 
-## 📊 GitHub Stats  
+### 🌱 Plant Store Website
+Responsive plant shop UI built with HTML, CSS, and JavaScript.
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+Features:
+- Responsive layout
+- Modern UI
+- Product cards
+- Newsletter section
+
+🔗 Repo: https://github.com/YOUR_USERNAME/plant-store
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+### 💼 React Portfolio Website
+Modern portfolio website built using React.
+
+Features:
+- Responsive design
+- Resume download
+- Projects showcase
+- Contact section
+
+🔗 Repo: https://github.com/YOUR_USERNAME/portfolio
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+</p>
+
+---
+
+# 💡 Dev Quote
+
+> "First solve the problem. Then write the code." – John Johnson
+
+---
+
+⭐ From [FokhrulSabel](https://github.com/FokhrulSabel)
