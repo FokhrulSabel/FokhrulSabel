@@ -15,9 +15,9 @@
 
 🚀 Passionate **MERN Stack Developer** who enjoys building modern, scalable web applications.
 
-- 🔭 Currently working on **Next.js Fullstack Applications**
+- 🔭 Currently working on **MERN Stack Applications**
 - 🌱 Learning **Advanced Next.js, Authentication, and System Design**
-- 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
+- 💬 Ask me about **JavaScript, React, MERN Stack and Web Development**
 - 🎯 Goal: Become a **world-class Fullstack Developer**
 - ⚡ I enjoy creating **clean UI and well-structured code**
 
