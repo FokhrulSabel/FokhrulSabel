@@ -18,7 +18,7 @@
 - 🔭 Currently working on **MERN Stack Applications**
 - 🌱 Learning **Advanced Next.js, Authentication, and System Design**
 - 💬 Ask me about **JavaScript, React, MERN Stack and Web Development**
-- 🎯 Goal: Become a **world-class Fullstack Developer**
+- 🎯 Goal: Become a **Fullstack Developer**
 - ⚡ I enjoy creating **clean UI and well-structured code**
 
 ---
